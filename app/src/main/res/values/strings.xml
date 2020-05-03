@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Conversion</string>
+    <string-array name="products">
+        <item>המוצרים: </item>
+        <item>אבקת אפייה</item>
+        <item>אבקת סוכר</item>
+        <item>אגוזים טחונים</item>
+        <item>אינסטנט פודינג</item>
+        <item>אספרסו</item>
+        <item>ביצה</item>
+        <item>גלטין</item>
+        <item>דבש</item>
+        <item>חלב</item>
+        <item>חלב מרוכז ממותק</item>
+        <item>חלב קוקוס"</item>
+        <item>טחינה גולמית</item>
+        <item>יוגורט</item>
+        <item>מים</item>
+        <item>מייפל</item>
+        <item>מיץ תפוזים</item>
+        <item>מלח</item>
+        <item>ממרח חמאת בוטנים</item>
+        <item>ממרח נוטלה</item>
+        <item>סודה לשתייה</item>
+        <item>סוכר חום</item>
+        <item>סוכר לבן</item>
+        <item>סילאן</item>
+        <item>פרג</item>
+        <item>קונפלור</item>
+        <item>קוקוס טחון</item>
+        <item>קמח לבן</item>
+        <item>קמח מלא</item>
+        <item>קקאו</item>
+        <item>קינמון</item>
+        <item>שוקולד</item>
+        <item>שיבולת שועל</item>
+        <item>שמן</item>
+        <item>שמנת חמוצה</item>
+        <item>שמנת מתוקה</item>
+        <item>שמרים יבשים</item>
+    </string-array>
+
+
+    <string-array name="convproduct">
+        <item>המוצרים: </item>
+        <item>ביצה</item>
+        <item>חלב</item>
+        <item>חמאה</item>
+        <item>סוכר</item>
+        <item>קמח</item>
+        <item>קמח תופח</item>
+        <item>שמן</item>
+        <item>שמנת חמוצה</item>
+        <item>שמנת מתוקה</item>
+        <item>שמרים יבשים</item>
+    </string-array>
+
+
+</resources>
